@@ -1,1 +1,5 @@
-git clone https://github.com/jonathankp/Web_aplication.git
+git clone https://github.com/jonathankp/Web_aplication.git   ---> clonar repositorio
+
+git add .  --->  añadir todos los archivos a la estacion
+git commit -m "primer viaje" ---> registro historico
+git push origin main ---> subir al servidor de github "git es la herramienta" 
