@@ -3,3 +3,6 @@ git clone https://github.com/jonathankp/Web_aplication.git   ---> clonar reposit
 git add .  --->  añadir todos los archivos a la estacion
 git commit -m "primer viaje" ---> registro historico
 git push origin main ---> subir al servidor de github "git es la herramienta" 
+git log ---> verifica o muestra los viajes trabajados
+git status ---> revisa si el archivo esta añadido " rojo no añadido" - "verde añadido"
+
